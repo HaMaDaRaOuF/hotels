@@ -1,10 +1,4 @@
-//
-//  hotels.swift
-//  Dubai
-//
-//  Created by HaMaDa RaOuF on 11/3/18.
-//  Copyright © 2018 HaMaDa RaOuF. All rights reserved.
-//
+
 
 import UIKit
 
